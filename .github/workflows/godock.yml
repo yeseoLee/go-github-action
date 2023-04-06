@@ -39,7 +39,7 @@ jobs:
 
       - name: build and release to DockerHub
         env:
-          NAME: yeseoLee
+          NAME: yeseolee
           REPO: go-action
         run: |
           docker build -t $REPO .
