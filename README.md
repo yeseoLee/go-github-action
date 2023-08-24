@@ -1,1 +1,1 @@
-### go-test-automation-github-action
+### go automating builds and tests with github action
